@@ -120,9 +120,9 @@ git clone <link-repo>
 
 ## 👨‍🎓 Thông tin sinh viên
 
-* Họ tên: ...
-* MSSV: ...
-* Lớp: ...
+* Họ tên: Lồ Đức Minh
+* MSSV: DTC245010068
+* Lớp: KTMTK23A
 
 ---
 
